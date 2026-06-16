@@ -1,0 +1,6 @@
+{
+  "name": "Video Source Code Extractor",
+  "description": "Extracts streaming video source links and player iframes from any webpage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
